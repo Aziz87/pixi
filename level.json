@@ -1,0 +1,12 @@
+{
+"skins" : {
+	"slots" : [
+		 { "name" : "Layer_0", 	"layer" : "standart","x": 800, "y": 500, "width": 1602, "height": 1002		},
+		 { "name" : "Lamp", 	"layer" : "LayerAMiddle","x": 806.5, "y": 220, "width": 33, "height": 50		},
+		 { "name" : "Bag", 		"layer" : "LayerAMiddle","x": 512.5, "y": 603, "width": 67, "height": 106		},
+		 { "name" : "Picture", 	"layer" : "LayerBMiddle","x": 754, "y": 439, "width": 150, "height": 100		},
+		 { "name" : "Hand", 	"layer" : "LayerBMiddle","x": 1471.5, "y": 645, "width": 31, "height": 86		},
+		 { "name" : "Head", 	"layer" : "LayerBMiddle","x": 147, "y": 513, "width": 46, "height": 52		}
+		]	
+}
+}
